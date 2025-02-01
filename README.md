@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in ActionScript 3 related to the for each loop and the arguments object.  The bug arises from a misunderstanding of how the for each loop handles objects versus arrays. The solution provides a correct way to iterate through function arguments using a traditional for loop.
